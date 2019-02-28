@@ -1,0 +1,26 @@
+@media (max-width: 767px) {
+
+	header .wrap a {
+		font-size: 14px;
+	}
+
+	.main-mast .wrap {
+		display: unset;
+	}
+
+	.content-menu {
+		float: unset;
+		width: 100%;
+		text-align: center;
+		border-right: none;
+		border-bottom: 1px solid #000;
+	}
+
+	.content-menu ul li {
+		display: inline-block;
+	}
+
+	.sotrud-block {
+		width: 50%;
+	}
+}
